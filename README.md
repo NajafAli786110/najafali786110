@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Najaf Ali Balti</h1>
 <h3 align="center">A passionate Software Enginner from Karachi, Pakistan.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1193269492/video/the-programmer-writes-the-code-for-the-development-of-the-website-against-the-background-of-a.mp4?s=mp4-640x640-is&k=20&c=dTfrfZcUFLFFE8V9RAFbWi-4unpnXf787pCDSfmAFs4=">
 
 - 🔭 I’m currently working on **Headless CMS Project**
 
-- 🌱 I’m currently learning **Software Enginnering**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Najaf_Ali_Balti](https://linktr.ee/Najaf_Ali_Balti)
 
