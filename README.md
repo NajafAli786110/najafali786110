@@ -1,3 +1,4 @@
+![logo](https://github.com/NajafAli786110/najafali786110/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Najaf Ali Balti</h1>
 <h3 align="center">A passionate Software Enginner from Karachi, Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
