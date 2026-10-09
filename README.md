@@ -61,7 +61,7 @@ My current focus is WordPress plugin engineering: object-oriented PHP with Compo
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NajafAli786110&hide_border=true&theme=transparent" alt="Najaf Ali Balti GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=NajafAli786110&hide_border=true&theme=transparent&v=2" alt="Najaf Ali Balti GitHub contribution streak" />
 </p>
 
 ## Contact
